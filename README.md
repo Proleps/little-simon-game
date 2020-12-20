@@ -1,5 +1,8 @@
 # simon-the-game
 
+## <https://proleps.github.io/little-simon-game/>
+Стили и верстка были взяты из тестового задания
+
 ## Project setup
 ```
 npm install
